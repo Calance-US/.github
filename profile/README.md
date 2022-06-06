@@ -1,4 +1,4 @@
-![Calance](Calance_Logo_PNG.png)
+![Calance](profile/Calance_Logo_PNG.png)
 
 # Who we are
 
