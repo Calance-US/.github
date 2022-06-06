@@ -1,3 +1,5 @@
+![Calance](Calance_Logo_PNG.png)
+
 # Who we are
 
 Calance is a global IT Services firm specializing in end-to-end solutions for Development, Robotic Process Automation (RPA), Business Intelligence and Data Science, DevOps enablement, Managed Services, Security, Construction Management Software Integration and IT Staffing.
